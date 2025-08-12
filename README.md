@@ -18,6 +18,5 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 ## 📄 License
 
 MIT — free for educational and personal use.  
-**Credit "Data With Baraa" when sharing!**
 
 ---
